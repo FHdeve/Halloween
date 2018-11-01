@@ -1,0 +1,3 @@
+Small python project, its a halloween theme game.
+
+Reference idea: https://www.pythonforbeginners.com/code/magic-8-ball-written-in-python
